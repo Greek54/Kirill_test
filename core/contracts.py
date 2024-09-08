@@ -1,5 +1,5 @@
 USER_DATA_SCHEME = {
-    "type": "objects",
+    "type": "object",
     "properties": {
     "id": {"type": "number"},
     "email": {"type": "string"},
