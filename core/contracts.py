@@ -7,5 +7,5 @@ USER_DATA_SCHEME = {
     "last_name": {"type": "string"},
     "avatar": {"type": "string" }
 },
-"required":["id", "mail", "first_name", "last_name", "avatar"]
+"required":["id", "email", "first_name", "last_name", "avatar"]
 }
